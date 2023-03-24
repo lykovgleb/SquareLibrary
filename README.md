@@ -1,5 +1,3 @@
-Вопрос №1
-
 Для использования библиотеки:
   1. Создать объект конфигурации(CircleConfigurations, TriangleConfigurations). В конструкторе указать необходимые параметры.
   2. Вызвать статический метод Square.Count(Configurations).
