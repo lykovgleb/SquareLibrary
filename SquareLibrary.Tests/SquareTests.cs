@@ -38,7 +38,7 @@ namespace SquareLibrary.Tests
         }
 
         [Fact]
-        public void RightAngledTriangle()
+        public void RightAngledTriangleTest()
         {
             var sideA = 3d;
             var sideB = 4d;
